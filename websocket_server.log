@@ -1,0 +1,179 @@
+2025-08-22 21:08:08,425 - WebSocket_Server - INFO - Starting WebSocket server...
+2025-08-22 21:08:08,426 - WebSocket_Server - INFO - Starting WebSocket server 0.0.0.0:8080
+2025-08-22 21:08:08,427 - WebSocket_Server - INFO - WebSocket server started, listening on 0.0.0.0:8080
+2025-08-22 21:08:10,916 - WebSocket_Server - INFO - Received handshake request: GET /?ide_webview_request_time=1755868090568 HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537
+2025-08-22 21:08:10,916 - WebSocket_Server - ERROR - No WebSocket key found in handshake
+2025-08-22 21:08:10,916 - WebSocket_Server - ERROR - WebSocket handshake failed for client 127.0.0.1:58497
+2025-08-22 21:08:10,926 - WebSocket_Server - INFO - Client disconnected: 127.0.0.1:58497
+2025-08-22 21:08:10,926 - WebSocket_Server - INFO - Current connections: 0
+2025-08-22 21:09:48,491 - WebSocket_Server - INFO - Received handshake request: GET / HTTP/1.1
+Host: localhost:8080
+Upgrade: websocket
+Connection: Upgrade
+Sec-WebSocket-Key: 9GVCziKQdTgjnXeqE/EnZw==
+Sec-WebSocket-Version: 13
+
+
+2025-08-22 21:09:48,492 - WebSocket_Server - INFO - WebSocket handshake completed successfully
+2025-08-22 21:09:48,492 - WebSocket_Server - INFO - Client connected: 127.0.0.1:58669
+2025-08-22 21:09:48,492 - WebSocket_Server - INFO - Current connections: 1
+2025-08-22 21:09:48,492 - WebSocket_Server - INFO - Stream message: LOG: 21:09:48 - Event occurred with value 40
+2025-08-22 21:09:49,578 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:09:49
+2025-08-22 21:09:50,577 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 644,163,8
+2025-08-22 21:09:52,391 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:09:52
+2025-08-22 21:09:54,797 - WebSocket_Server - INFO - Stream message: LOG: 21:09:54 - Event occurred with value 79
+2025-08-22 21:09:55,367 - WebSocket_Server - INFO - Stream message: LOG: 21:09:55 - Event occurred with value 6
+2025-08-22 21:09:57,488 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:09:57
+2025-08-22 21:09:58,875 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 642,72,4
+2025-08-22 21:09:59,771 - WebSocket_Server - INFO - Stream message: SENSOR: temp=32.45 humidity=58.65 pressure=980.17 time=2025-08-22T21:09:59.771894
+2025-08-22 21:10:01,882 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:01
+2025-08-22 21:10:04,203 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 407,151,4
+2025-08-22 21:10:06,694 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:06
+2025-08-22 21:10:07,693 - WebSocket_Server - INFO - Stream message: LOG: 21:10:07 - Event occurred with value 69
+2025-08-22 21:10:09,488 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 415,67,3
+2025-08-22 21:10:10,501 - WebSocket_Server - INFO - Stream message: SENSOR: temp=33.35 humidity=32.04 pressure=999.27 time=2025-08-22T21:10:10.500535
+2025-08-22 21:10:11,095 - WebSocket_Server - INFO - Stream message: SENSOR: temp=29.61 humidity=59.96 pressure=981.23 time=2025-08-22T21:10:11.094740
+2025-08-22 21:10:13,355 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 995,106,3
+2025-08-22 21:10:14,491 - WebSocket_Server - INFO - Stream message: SENSOR: temp=25.45 humidity=45.74 pressure=984.39 time=2025-08-22T21:10:14.491239
+2025-08-22 21:10:15,449 - WebSocket_Server - INFO - Stream message: LOG: 21:10:15 - Event occurred with value 8
+2025-08-22 21:10:17,546 - WebSocket_Server - INFO - Stream message: LOG: 21:10:17 - Event occurred with value 79
+2025-08-22 21:10:18,470 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:18
+2025-08-22 21:10:19,878 - WebSocket_Server - INFO - Stream message: SENSOR: temp=21.83 humidity=64.3 pressure=982.3 time=2025-08-22T21:10:19.878571
+2025-08-22 21:10:22,700 - WebSocket_Server - INFO - Stream message: LOG: 21:10:22 - Event occurred with value 71
+2025-08-22 21:10:25,185 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:25
+2025-08-22 21:10:27,791 - WebSocket_Server - INFO - Stream message: LOG: 21:10:27 - Event occurred with value 71
+2025-08-22 21:10:29,402 - WebSocket_Server - INFO - Stream message: LOG: 21:10:29 - Event occurred with value 47
+2025-08-22 21:10:31,901 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:31
+2025-08-22 21:10:33,266 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 228,143,4
+2025-08-22 21:10:35,203 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 932,50,9
+2025-08-22 21:10:38,167 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 886,100,4
+2025-08-22 21:10:39,646 - WebSocket_Server - INFO - Stream message: LOG: 21:10:39 - Event occurred with value 23
+2025-08-22 21:10:40,360 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 543,155,10
+2025-08-22 21:10:42,506 - WebSocket_Server - INFO - Stream message: SENSOR: temp=23.79 humidity=34.91 pressure=1001.41 time=2025-08-22T21:10:42.506418
+2025-08-22 21:10:44,048 - WebSocket_Server - INFO - Stream message: SENSOR: temp=34.55 humidity=41.3 pressure=1008.78 time=2025-08-22T21:10:44.048588
+2025-08-22 21:10:45,053 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 307,114,2
+2025-08-22 21:10:46,253 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:46
+2025-08-22 21:10:48,336 - WebSocket_Server - INFO - Stream message: SENSOR: temp=26.29 humidity=70.02 pressure=1012.51 time=2025-08-22T21:10:48.336878
+2025-08-22 21:10:48,950 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:48
+2025-08-22 21:10:49,804 - WebSocket_Server - INFO - Stream message: SENSOR: temp=21.29 humidity=35.54 pressure=1012.21 time=2025-08-22T21:10:49.804463
+2025-08-22 21:10:51,661 - WebSocket_Server - INFO - Stream message: SENSOR: temp=30.59 humidity=70.02 pressure=1005.8 time=2025-08-22T21:10:51.661629
+2025-08-22 21:10:53,109 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 406,193,9
+2025-08-22 21:10:55,782 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:10:55
+2025-08-22 21:10:58,744 - WebSocket_Server - INFO - Stream message: LOG: 21:10:58 - Event occurred with value 29
+2025-08-22 21:10:59,594 - WebSocket_Server - INFO - Stream message: LOG: 21:10:59 - Event occurred with value 62
+2025-08-22 21:11:00,655 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:00
+2025-08-22 21:11:02,380 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 231,72,9
+2025-08-22 21:11:03,925 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:03
+2025-08-22 21:11:06,455 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 235,144,2
+2025-08-22 21:11:09,338 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 737,91,10
+2025-08-22 21:11:11,391 - WebSocket_Server - INFO - Stream message: LOG: 21:11:11 - Event occurred with value 61
+2025-08-22 21:11:12,738 - WebSocket_Server - INFO - Stream message: SENSOR: temp=20.5 humidity=65.49 pressure=986.56 time=2025-08-22T21:11:12.737812
+2025-08-22 21:11:13,556 - WebSocket_Server - INFO - Stream message: SENSOR: temp=23.82 humidity=49.36 pressure=1002.14 time=2025-08-22T21:11:13.556218
+2025-08-22 21:11:16,508 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 983,64,7
+2025-08-22 21:11:17,933 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 248,86,5
+2025-08-22 21:11:18,789 - WebSocket_Server - INFO - Stream message: SENSOR: temp=34.79 humidity=47.95 pressure=1002.24 time=2025-08-22T21:11:18.789135
+2025-08-22 21:11:19,828 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:19
+2025-08-22 21:11:21,394 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:21
+2025-08-22 21:11:23,577 - WebSocket_Server - INFO - Stream message: LOG: 21:11:23 - Event occurred with value 30
+2025-08-22 21:11:25,108 - WebSocket_Server - INFO - Stream message: SENSOR: temp=31.94 humidity=79.05 pressure=1013.38 time=2025-08-22T21:11:25.108796
+2025-08-22 21:11:27,223 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 560,183,5
+2025-08-22 21:11:28,150 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:28
+2025-08-22 21:11:28,762 - WebSocket_Server - INFO - Stream message: LOG: 21:11:28 - Event occurred with value 100
+2025-08-22 21:11:30,338 - WebSocket_Server - INFO - Stream message: SENSOR: temp=27.91 humidity=33.57 pressure=994.24 time=2025-08-22T21:11:30.338967
+2025-08-22 21:11:31,610 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 509,120,4
+2025-08-22 21:11:32,396 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:32
+2025-08-22 21:11:35,308 - WebSocket_Server - INFO - Stream message: LOG: 21:11:35 - Event occurred with value 14
+2025-08-22 21:11:38,024 - WebSocket_Server - INFO - Stream message: SENSOR: temp=28.39 humidity=62.3 pressure=988.54 time=2025-08-22T21:11:38.023896
+2025-08-22 21:11:38,567 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 452,152,1
+2025-08-22 21:11:41,218 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 639,153,9
+2025-08-22 21:11:44,175 - WebSocket_Server - INFO - Stream message: SENSOR: temp=33.86 humidity=35.41 pressure=1000.34 time=2025-08-22T21:11:44.175395
+2025-08-22 21:11:45,238 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 899,92,9
+2025-08-22 21:11:47,721 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 779,102,5
+2025-08-22 21:11:50,066 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 492,148,9
+2025-08-22 21:11:51,333 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:51
+2025-08-22 21:11:52,863 - WebSocket_Server - INFO - Stream message: SENSOR: temp=34.23 humidity=49.65 pressure=1006.84 time=2025-08-22T21:11:52.863423
+2025-08-22 21:11:53,744 - WebSocket_Server - INFO - Stream message: SENSOR: temp=21.17 humidity=75.99 pressure=1006.37 time=2025-08-22T21:11:53.744456
+2025-08-22 21:11:55,321 - WebSocket_Server - INFO - Stream message: SENSOR: temp=31.23 humidity=37.97 pressure=993.59 time=2025-08-22T21:11:55.321124
+2025-08-22 21:11:56,549 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:11:56
+2025-08-22 21:11:58,988 - WebSocket_Server - INFO - Stream message: SENSOR: temp=23.61 humidity=76.91 pressure=999.22 time=2025-08-22T21:11:58.988283
+2025-08-22 21:12:01,403 - WebSocket_Server - INFO - Stream message: SENSOR: temp=33.83 humidity=79.65 pressure=989.18 time=2025-08-22T21:12:01.403068
+2025-08-22 21:12:03,527 - WebSocket_Server - INFO - Stream message: LOG: 21:12:03 - Event occurred with value 36
+2025-08-22 21:12:04,722 - WebSocket_Server - INFO - Stream message: LOG: 21:12:04 - Event occurred with value 66
+2025-08-22 21:12:05,502 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 982,133,8
+2025-08-22 21:12:06,279 - WebSocket_Server - INFO - Stream message: SENSOR: temp=30.91 humidity=52.01 pressure=1019.33 time=2025-08-22T21:12:06.279250
+2025-08-22 21:12:07,120 - WebSocket_Server - INFO - Stream message: LOG: 21:12:07 - Event occurred with value 20
+2025-08-22 21:12:08,187 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:08
+2025-08-22 21:12:10,067 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 795,55,8
+2025-08-22 21:12:12,048 - WebSocket_Server - INFO - Stream message: LOG: 21:12:12 - Event occurred with value 55
+2025-08-22 21:12:15,003 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:15
+2025-08-22 21:12:16,412 - WebSocket_Server - INFO - Stream message: SENSOR: temp=20.33 humidity=30.2 pressure=987.97 time=2025-08-22T21:12:16.412141
+2025-08-22 21:12:17,128 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:17
+2025-08-22 21:12:18,421 - WebSocket_Server - INFO - Stream message: LOG: 21:12:18 - Event occurred with value 32
+2025-08-22 21:12:21,394 - WebSocket_Server - INFO - Stream message: LOG: 21:12:21 - Event occurred with value 61
+2025-08-22 21:12:22,245 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:22
+2025-08-22 21:12:23,855 - WebSocket_Server - INFO - Stream message: SENSOR: temp=32.46 humidity=68.25 pressure=992.3 time=2025-08-22T21:12:23.855231
+2025-08-22 21:12:25,249 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:25
+2025-08-22 21:12:27,509 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:27
+2025-08-22 21:12:30,170 - WebSocket_Server - INFO - Stream message: LOG: 21:12:30 - Event occurred with value 3
+2025-08-22 21:12:31,093 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 715,197,4
+2025-08-22 21:12:32,705 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:32
+2025-08-22 21:12:33,607 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 490,149,2
+2025-08-22 21:12:34,480 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 622,181,4
+2025-08-22 21:12:35,989 - WebSocket_Server - INFO - Stream message: SENSOR: temp=21.34 humidity=48.78 pressure=986.72 time=2025-08-22T21:12:35.988605
+2025-08-22 21:12:37,175 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:37
+2025-08-22 21:12:37,734 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 214,127,9
+2025-08-22 21:12:38,588 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 226,172,7
+2025-08-22 21:12:41,403 - WebSocket_Server - INFO - Stream message: LOG: 21:12:41 - Event occurred with value 11
+2025-08-22 21:12:42,043 - WebSocket_Server - INFO - Stream message: LOG: 21:12:42 - Event occurred with value 29
+2025-08-22 21:12:43,171 - WebSocket_Server - INFO - Stream message: SENSOR: temp=33.94 humidity=62.68 pressure=988.26 time=2025-08-22T21:12:43.170634
+2025-08-22 21:12:45,803 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 768,162,1
+2025-08-22 21:12:47,137 - WebSocket_Server - INFO - Stream message: SENSOR: temp=28.07 humidity=51.56 pressure=1014.14 time=2025-08-22T21:12:47.137238
+2025-08-22 21:12:49,262 - WebSocket_Server - INFO - Stream message: SENSOR: temp=31.5 humidity=67.9 pressure=998.89 time=2025-08-22T21:12:49.261762
+2025-08-22 21:12:50,342 - WebSocket_Server - INFO - Stream message: SENSOR: temp=26.35 humidity=41.24 pressure=990.69 time=2025-08-22T21:12:50.342890
+2025-08-22 21:12:53,117 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:12:53
+2025-08-22 21:12:54,716 - WebSocket_Server - INFO - Stream message: LOG: 21:12:54 - Event occurred with value 23
+2025-08-22 21:12:55,696 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 142,186,1
+2025-08-22 21:12:57,724 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 875,84,7
+2025-08-22 21:12:59,673 - WebSocket_Server - INFO - Stream message: SENSOR: temp=34.63 humidity=69.66 pressure=1011.63 time=2025-08-22T21:12:59.673262
+2025-08-22 21:13:00,352 - WebSocket_Server - INFO - Stream message: SENSOR: temp=32.67 humidity=39.52 pressure=985.2 time=2025-08-22T21:13:00.352386
+2025-08-22 21:13:01,286 - WebSocket_Server - INFO - Stream message: SENSOR: temp=29.0 humidity=68.04 pressure=1013.45 time=2025-08-22T21:13:01.286221
+2025-08-22 21:13:02,200 - WebSocket_Server - INFO - Stream message: SENSOR: temp=24.61 humidity=69.43 pressure=997.04 time=2025-08-22T21:13:02.200738
+2025-08-22 21:13:03,984 - WebSocket_Server - INFO - Stream message: LOG: 21:13:03 - Event occurred with value 11
+2025-08-22 21:13:05,589 - WebSocket_Server - INFO - Stream message: LOG: 21:13:05 - Event occurred with value 1
+2025-08-22 21:13:06,403 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:06
+2025-08-22 21:13:09,402 - WebSocket_Server - INFO - Stream message: SENSOR: temp=22.36 humidity=69.35 pressure=990.89 time=2025-08-22T21:13:09.402137
+2025-08-22 21:13:11,655 - WebSocket_Server - INFO - Stream message: SENSOR: temp=28.34 humidity=43.65 pressure=1008.16 time=2025-08-22T21:13:11.655300
+2025-08-22 21:13:13,910 - WebSocket_Server - INFO - Stream message: SENSOR: temp=33.54 humidity=32.7 pressure=988.52 time=2025-08-22T21:13:13.910236
+2025-08-22 21:13:16,883 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:16
+2025-08-22 21:13:19,579 - WebSocket_Server - INFO - Stream message: LOG: 21:13:19 - Event occurred with value 86
+2025-08-22 21:13:20,429 - WebSocket_Server - INFO - Stream message: LOG: 21:13:20 - Event occurred with value 67
+2025-08-22 21:13:21,640 - WebSocket_Server - INFO - Stream message: LOG: 21:13:21 - Event occurred with value 64
+2025-08-22 21:13:22,649 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 721,179,2
+2025-08-22 21:13:25,095 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 353,118,1
+2025-08-22 21:13:27,027 - WebSocket_Server - INFO - Stream message: DATA_STREAM: 733,124,4
+2025-08-22 21:13:29,936 - WebSocket_Server - INFO - Stream message: LOG: 21:13:29 - Event occurred with value 48
+2025-08-22 21:13:31,912 - WebSocket_Server - INFO - Stream message: LOG: 21:13:31 - Event occurred with value 47
+2025-08-22 21:13:34,812 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:34
+2025-08-22 21:13:35,511 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:35
+2025-08-22 21:13:37,166 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:37
+2025-08-22 21:13:38,753 - WebSocket_Server - INFO - Stream message: SENSOR: temp=24.21 humidity=58.35 pressure=1018.24 time=2025-08-22T21:13:38.753299
+2025-08-22 21:13:39,476 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:39
+2025-08-22 21:13:40,020 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:40
+2025-08-22 21:13:41,164 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:41
+2025-08-22 21:13:43,532 - WebSocket_Server - INFO - Stream message: LOG: 21:13:43 - Event occurred with value 19
+2025-08-22 21:13:44,336 - WebSocket_Server - INFO - Stream message: STATUS: System operational at 2025-08-22 21:13:44
+2025-08-22 21:13:45,282 - WebSocket_Server - INFO - Stream message: SENSOR: temp=31.04 humidity=37.39 pressure=1019.72 time=2025-08-22T21:13:45.282238
+2025-08-22 21:13:46,549 - WebSocket_Server - INFO - Client disconnected: 127.0.0.1:58669
+2025-08-22 21:13:46,549 - WebSocket_Server - INFO - Current connections: 0
+2025-08-22 21:13:48,937 - WebSocket_Server - INFO - Starting WebSocket server...
+2025-08-22 21:13:48,937 - WebSocket_Server - INFO - Starting WebSocket server 0.0.0.0:8080
+2025-08-22 21:13:48,938 - WebSocket_Server - INFO - WebSocket server started, listening on 0.0.0.0:8080
+2025-08-22 21:16:02,445 - WebSocket_Server - INFO - Received handshake request: 
+2025-08-22 21:16:02,445 - WebSocket_Server - ERROR - No WebSocket key found in handshake
+2025-08-22 21:16:02,445 - WebSocket_Server - ERROR - WebSocket handshake failed for client 127.0.0.1:58499
+2025-08-22 21:16:02,446 - WebSocket_Server - INFO - Client disconnected: 127.0.0.1:58499
+2025-08-22 21:16:02,446 - WebSocket_Server - INFO - Current connections: 0
